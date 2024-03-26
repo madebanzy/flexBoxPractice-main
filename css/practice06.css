@@ -1,0 +1,59 @@
+.color-yellow {
+    background-color: yellow;
+    border: 2px solid black ;
+    height: 75px;
+    margin: 10px
+}
+.color-pink {
+    background-color: white;
+    height: 75px;
+    margin: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+.pink1 {
+    background-color:pink;
+    border: 2px solid black;
+    flex-basis: 20%;
+}
+.pink2 {
+    background-color: pink;
+    border: 2px solid black;
+    flex-basis: 20%;
+}
+.pink3 {
+    background-color:pink;
+    border: 2px solid black;
+    flex-basis: 20%;
+}
+.pink4 {
+    background-color: pink;
+    border: 2px solid black;
+    flex-basis: 20%;
+}
+
+.color-grey {
+    background-color: white;
+    height: 150px;
+    margin: 10px;
+    display:flex;
+    justify-content: space-between;
+}
+.color-blue {
+    background-color: steelblue;
+    border: 2px solid black ;
+    height: 150px;
+    margin: 10px;
+}
+.color1 {
+    background-color: grey;
+    border: 2px solid black;
+    flex-basis: 20%;
+}
+
+.color2 {
+    background-color: skyblue;
+    border: 2px solid black;
+    flex-basis: 71%;
+    
+}

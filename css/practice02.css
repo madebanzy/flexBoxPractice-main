@@ -1,0 +1,18 @@
+.color-yellow {
+    background-color: yellow;
+    border: 2px solid black ;
+    height: 150px;
+    margin: 10px
+}
+.color-grey {
+    background-color: grey;
+    border: 2px solid black ;
+    height: 150px;
+    margin: 10px;
+}
+.color-blue {
+    background-color: steelblue;
+    border: 2px solid black ;
+    height: 150px;
+    margin: 10px;
+}
