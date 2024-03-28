@@ -1,7 +1,7 @@
 .container-1 {
     display: flex;
     height: 1000px;
-    margin:2%
+    background-color: white;
 
 }
 
@@ -10,12 +10,12 @@
     background-color: yellow;
     border: 2px solid black;
     flex-direction: row;
-    height: 100%;
-    margin: 2%;
+  
 }
 
 .main {
     display: flex;
+    height: 977px;
     width: 50%;
     flex-direction: column;
     justify-content: space-between;
@@ -24,18 +24,19 @@
 
 .color-grey {
     width: 100%;
+    height: 25%;
     background-color: grey;
     border: 2px solid black;
-    height: 100%;
-    margin: 2%;
+    margin-top: 0%;
 }
 
 .color-blue {
     width: 100%;
-    height: 100%;
+    height: 75%;
     background-color: skyblue;
     border: 2px solid black;
-    margin: 2%;
+    margin-top: 5%;
+    margin-bottom: 5px;
 }
 
 .color-pink {
@@ -43,14 +44,25 @@
     background-color: pink;
     border: 2px solid black;
     flex-direction: row;
+   
+
+}
+
+.container-2 {
+    display: flex;
+    background-color: white;
+    width: 100%;
     height: 100%;
     margin: 2%;
 }
 
-.container-2 {
+.color-red {
     background-color: red;
     border: 2px solid black;
     width: 100%;
-    height: 300px;
-    margin: 1%
+    height: 350px;
+
+    align-items: center;
+
+
 }
